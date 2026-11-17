@@ -1,3 +1,2 @@
-a = '           ksdhbflwkqhebfibs   '
-
-print(a.strip())
+ism = str(input("Ismingizni kiriting->"))
+print(len(ism))
